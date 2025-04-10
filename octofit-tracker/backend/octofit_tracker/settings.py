@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-p$^)!2mfbk7h==rtb6&_adsji$d1b&qnaupx$evl3l^xa$f(1%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ['stunning-space-journey-966wqprgw54h9vg5-8000.app.github.dev', 'localhost']
 
 
 # Application definition
